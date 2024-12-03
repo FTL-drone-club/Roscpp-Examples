@@ -1,0 +1,8 @@
+prefix=/home/clover/examples/test/install
+
+Name: takeoff_land
+Description: Description of takeoff_land
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: geometry_msgs mavros_msgs roscpp std_msgs std_srvs

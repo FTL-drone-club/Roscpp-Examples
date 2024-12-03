@@ -1,0 +1,2 @@
+.
+-DCATKIN_DEVEL_PREFIX=/home/clover/examples/test/devel -DCMAKE_INSTALL_PREFIX=/home/clover/examples/test/install -G Unix Makefiles
